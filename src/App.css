@@ -1,3 +1,63 @@
+body
+{
+  background-color: burlywood
+}
+.table
+{
+  width: 100%;
+  align-items: center;
+  border-collapse: collapse;
+}
+th{
+  font-size: 30px;
+  color: rgb(4, 4, 79);
+}
+td{
+  font-size: 20px;
+  color: rgb(24, 24, 30);
+}
+.student{
+  font-size: 30px;
+  color: rgb(49, 20, 20);
+  text-decoration: underline;
+}
+.home{
+  font-size: 40px;
+  color:darkgreen;
+}
+.contact
+{
+  font-size: 40px;
+  color: rgba(24, 6, 132, 0.78);
+  text-align: left;
+  text-decoration: underline;
+}
+.contactinfo
+{
+  font-size: 30px;
+  text-align: left;
+  color: rgb(72, 0, 0);
+}
+.edit 
+{
+  color: blue;
+  text-decoration: underline;
+}
+.Btn
+{
+  width:150px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: chocolate;
+}
+.studentadd
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 .App {
   text-align: center;
 }

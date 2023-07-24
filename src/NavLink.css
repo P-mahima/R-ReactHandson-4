@@ -1,0 +1,23 @@
+.NavBar
+{
+    width: 100%;
+    height: 40px;
+    background-color: blueviolet;
+    color: black;   
+    display: flex;
+    /* flex-direction: column; */
+    gap: 20px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.Navitem
+{
+    color: black;
+    font-size: 30px;
+    font-style:inherit;
+    text-decoration: none;
+    font-weight: bolder;
+    gap: 20px;
+   
+}
